@@ -1,4 +1,3 @@
-# genomic-variant-filter-python
 # Genomic Variant Classification Tool (Python)
 
 ## Overview
